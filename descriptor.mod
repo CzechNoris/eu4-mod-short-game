@@ -6,3 +6,4 @@ tags={
 }
 name="ShortGamer"
 supported_version="1.32.2"
+remote_file_id="2678438548"
