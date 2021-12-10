@@ -82,7 +82,7 @@ change_estate_land_share = {
 		dynasty = "de Valois"
 		birth_date = 1403.2.22
 		adm = 4
-		dip = 2
+		dip = 3
 		mil = 4
 	}
 	queen = {
